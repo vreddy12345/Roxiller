@@ -1,0 +1,17 @@
+{
+    "name": "node-api-project",
+    "version": "1.0.0",
+    "description": "Node.js API Project",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "sqlite3": "^5.0.2",
+      "axios": "^0.21.4"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
